@@ -59,3 +59,4 @@ Response seat number and status
 + I tried to acquire distributed lock but that did not work as expected
 + Api endpoints can be a bit refined
 + Api Responses can be more structured
++ servert.js has inmemory implementation of same apis
