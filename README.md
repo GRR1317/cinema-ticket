@@ -44,7 +44,7 @@ Response return with seat id and status
 #### Book first available consecutive seats
 
 ```curl
-curl -X POST http://localhost:8080/cinemas/64733a45e9349133f66928c2/consecutive
+curl -X POST http://localhost:8080/cinemas/:cinemaId/consecutive
 ```
 
 Response seat number and status
